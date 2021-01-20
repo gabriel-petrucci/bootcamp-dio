@@ -1,0 +1,14 @@
+#titulo {color: brown;
+    font-size: larger;
+    font-style: initial;
+} 
+.partidas{
+font-style:italic;
+font-family: fantasy;
+text-align: left;}
+
+body {background-color: lightgray;
+margin: auto;}
+
+ui {list-style-type: "\1F44D";}
+
